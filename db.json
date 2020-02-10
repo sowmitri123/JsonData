@@ -1,5 +1,5 @@
 [
-"contacts" :[[
+"contacts" :[
   {
     "Name":"Sow",
     "PhoneNumber":"9985974120"
@@ -38,6 +38,6 @@
     "Name":"sr",
     "PhoneNumber":"7894561237"
   }
-]],
+],
 "users" :[]
 ]
