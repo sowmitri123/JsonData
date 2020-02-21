@@ -3,194 +3,119 @@
   {
     "id":1,
     "Name":"Sowmi",
-    "PhoneNumber":"9989575333"
+    "PhoneNumber":"9989575333",
+    "fav":true
   },
   {
     "id":2,
     "Name":"Varshi",
-    "PhoneNumber":"9989575331"
+    "PhoneNumber":"9989575331",
+    "fav":true
   }, {
     "id":3,
     "Name":"Aditya",
-    "PhoneNumber":"9515719974"
+    "PhoneNumber":"9515719974",
+    "fav":true
   },
   {
     "id":4,
     "Name":"Ravi",
-    "PhoneNumber":"7894561230"
+    "PhoneNumber":"7894561230",
+    "fav":true
   },
    {
      "id":5,
     "Name":"Pink",
-    "PhoneNumber":"3216549870"
+    "PhoneNumber":"3216549870",
+    "fav":true
   },
   {
     "id":6,
     "Name":"Praven",
-    "PhoneNumber":"1234567890"
+    "PhoneNumber":"1234567890",
+    "fav":true
   },
    {
      "id":7,
     "Name":"Akhil",
-    "PhoneNumber":"7894563210"
+    "PhoneNumber":"7894563210",
+    "fav":true
   },
   {
     "id":8,
     "Name":"Vijay",
-    "PhoneNumber":"7894561230"
+    "PhoneNumber":"7894561230",
+    "fav":true
   }, {
     "id":9,
     "Name":"Prasad",
-    "PhoneNumber":"7845693210"
+    "PhoneNumber":"7845693210",
+    "fav":true
   },
   {
     "id":10,
     "Name":"srija",
-    "PhoneNumber":"7894561237"
+    "PhoneNumber":"7894561237",
+    "fav":true
   },
   {
     "id":11,
     "Name":"Shiva",
-    "PhoneNumber":"1236547890"
+    "PhoneNumber":"1236547890",
+    "fav":false
   },
    {
      "id":12,
     "Name":"ML Reddy",
-    "PhoneNumber":"80898967807"
+    "PhoneNumber":"80898967807",
+    "fav":false
   },
   {
     "id":13,
     "Name":"Vinay",
-    "PhoneNumber":"7894561230"
+    "PhoneNumber":"7894561230",
+    "fav":false
   }, {
     "id":14,
     "Name":"Srikar",
-    "PhoneNumber":"7845693210"
+    "PhoneNumber":"7845693210",
+    "fav":false
   },
   {
     "id":15,
     "Name":"John",
-    "PhoneNumber":"7894561237"
+    "PhoneNumber":"7894561237",
+    "fav":false
   },
   {
     "id":16,
     "Name":"Jim",
-    "PhoneNumber":"1236547890"
+    "PhoneNumber":"1236547890",
+    "fav":false
   },
    {
     "id":17,
     "Name":"Toni",
-    "PhoneNumber":"7894561230"
+    "PhoneNumber":"7894561230",
+    "fav":false
   }, {
     "id":18,
     "Name":"Mouli",
-    "PhoneNumber":"7845693210"
+    "PhoneNumber":"7845693210",
+    "fav":false
   },
   {
     "id":19,
     "Name":"Anil",
-    "PhoneNumber":"7894561237"
+    "PhoneNumber":"7894561237",
+    "fav":false
   },
   {
     "id":20,
     "Name":"Yo",
-    "PhoneNumber":"1236547890"
+    "PhoneNumber":"1236547890",
+    "fav":false
   }
 ],
-"users" :[{
-    "id":1,
-    "Name":"Sowmi",
-    "PhoneNumber":"9985974120"
-  },
-  {
-    "id":2,
-    "Name":"Varshi",
-    "PhoneNumber":"1234568890"
-  }, {
-    "id":3,
-    "Name":"Aditya",
-    "PhoneNumber":"2581000080"
-  },
-  {
-    "id":4,
-    "Name":"Ravi",
-    "PhoneNumber":"00005504545"
-  },
-   {
-     "id":5,
-    "Name":"Pink",
-    "PhoneNumber":"2581000780"
-  },
-  {
-    "id":6,
-    "Name":"Praven",
-    "PhoneNumber":"9574123081"
-  },
-   {
-     "id":7,
-    "Name":"Akhil",
-    "PhoneNumber":"80898967807"
-  },
-  {
-    "id":8,
-    "Name":"Vijay",
-    "PhoneNumber":"7894561230"
-  }, {
-    "id":9,
-    "Name":"Prasad",
-    "PhoneNumber":"7845693210"
-  },
-  {
-    "id":10,
-    "Name":"srija",
-    "PhoneNumber":"7894561237"
-  },
-  {
-    "id":11,
-    "Name":"Shiva",
-    "PhoneNumber":"1236547890"
-  },
-   {
-     "id":12,
-    "Name":"ML Reddy",
-    "PhoneNumber":"80898967807"
-  },
-  {
-    "id":13,
-    "Name":"Vinay",
-    "PhoneNumber":"7894561230"
-  }, {
-    "id":14,
-    "Name":"Srikar",
-    "PhoneNumber":"7845693210"
-  },
-  {
-    "id":15,
-    "Name":"John",
-    "PhoneNumber":"7894561237"
-  },
-  {
-    "id":16,
-    "Name":"Jim",
-    "PhoneNumber":"1236547890"
-  },
-   {
-    "id":17,
-    "Name":"Toni",
-    "PhoneNumber":"7894561230"
-  }, {
-    "id":18,
-    "Name":"Mouli",
-    "PhoneNumber":"7845693210"
-  },
-  {
-    "id":19,
-    "Name":"Anil",
-    "PhoneNumber":"7894561237"
-  },
-  {
-    "id":20,
-    "Name":"Yo",
-    "PhoneNumber":"1236547890"
-  }]
+"users" :[]
 }
